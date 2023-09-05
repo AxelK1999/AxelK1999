@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi, I am Axel 👋
+I am a student advanced in engineer software 
 
-
-**AxelK1999/AxelK1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 👩🏾‍💻
 
 Here are some ideas to get you started:
 
