@@ -5,7 +5,7 @@ I am an advanced university student of engineering software.
 ### Technologies 
 - Javascript, HTML, CSS
 - Nodejs + express
-- Boostrap 4
+- Boostrap 5
 - PHP + CodeIgnater
 - Java + Maven
 - Databases : PostgreSQL, Mongo DB
