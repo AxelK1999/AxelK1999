@@ -8,7 +8,7 @@ I am an advanced university student of engineering software.
 - Nodejs + express
 - Boostrap 5
 - PHP + CodeIgnater
-- Java + Maven + hibernate + JPA
+- Java + Maven + hibernate + JSP
 - SQL + Databases : PostgreSQL, Mongo DB
 
 
