@@ -8,5 +8,6 @@ I am an advanced university student of engineering software.
 - PHP + CodeIgnater
 - Java + Maven + hibernate + JSP
 - SQL + Databases : PostgreSQL, Mongo DB
+- Python, selenium
 
 
