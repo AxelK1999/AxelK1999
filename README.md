@@ -7,7 +7,5 @@ I am an advanced university student of engineering software.
 - Python (FastApi, Pandas, StramLint, selenium)
 - Javascript, HTML, CSS, Boostrap 5
 - Nodejs + express
--------------------
-- PHP + CodeIgnater
-- Java + Maven + hibernate + JSP
+
 
